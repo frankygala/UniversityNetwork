@@ -1,0 +1,71 @@
+.container{
+	overflow-x:none;
+}
+.homeImage{
+	position: absolute; opacity: 0.3; width: 100%; height: 100%; top:0%;
+}
+.home{
+	position: absolute;
+  	left: 15%;
+ 	top: 35%;
+}
+.home label {
+	font-weight: bold;
+}
+.modal {
+	max-height: none;
+}
+.check{
+	margin-top: 30px;
+}
+.modal{
+	top: 1%;
+}
+.picker__select--year.browser-default{
+	width:28%;
+}
+.title-register{
+	text-align: center;
+	height:10px;
+}
+.title-home{
+	font-size: 320%;
+	text-align: center;
+}
+.description-home{
+	text-align: center;
+	font-size:30px;
+	height: 10px;
+}
+.col{
+	height: 50px;
+}
+.title-section{
+	color: #9e9e9e;
+  	font-size: 20px;
+  	border-bottom: solid 1px;
+}
+.picker__header select {
+	height: 40px;
+}
+.select-wrapper option {
+	padding: 0px;
+}
+a{
+	color: white;
+}
+.clickable {
+	cursor: pointer;
+}
+.error{
+	color:red;text-align:center;
+}
+.alertify-buttons{
+	background-color: white;
+}
+.collection .collection-item.avatar{
+	height: 100%;
+}
+.collection .collection-item.avatar .content-p{
+	margin-top:10px; text-overflow: ellipsis; max-width: 400px; white-space: nowrap;	overflow:hidden;
+}
